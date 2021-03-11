@@ -8,3 +8,7 @@ A collection of code snippets demonstrating my coding ability and style.
 - [LamboCoins](https://github.com/AhemOne/LamboCoins): A project exploring Ethereum and blockchain technology I was working on with a friend as a proof of concept (Not C++).
 
 - [timercounter](timercounter/README.md): A project exploring hardware manipulation on the ATMega series microcontrollers.
+
+- [XCIS](XCIS/README.md): Some code from an early iteration of the XCIS firmware.
+
+
