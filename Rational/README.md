@@ -4,9 +4,9 @@
 Rational is a library developed for using rational numbers (i.e a/b). This was because I wanted to explore and understand operator overloading at the time so no real focus was put finding less time-complex algorithms (the common denominator function is pretty much brute force).
 
 ## Files
-[Header](rational.hpp)
-[Implementation](rational.cpp)
-[Tests](main.cpp)
+rational.([hpp](rational.hpp)/[cpp](rational.cpp)): library files
+
+main.[cpp](main.cpp): some tests performed
 
 ## Usage
 
