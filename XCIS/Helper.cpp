@@ -2,8 +2,7 @@
 //  Helper.cpp
 //  XCIS
 //
-//  Created by Jesse on 26/10/19.
-//  Copyright © 2019 Jesse. All rights reserved.
+//  Copyright © 2019 XCIS. All rights reserved.
 //
 
 #include "../Helper.hpp"
