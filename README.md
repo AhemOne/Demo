@@ -7,8 +7,8 @@ A collection of code snippets demonstrating my coding ability and style.
 - [console](console/README.md): A code chunk from a project attempting to make a basic console using Open GL.
 - [led_display](led_display/README.md): A project getting a Jaycar 16x16 display module working. Plays Conway's game of life.
 - [timercounter](timercounter/README.md): A project exploring hardware manipulation on the ATMega series microcontrollers.
-- [LamboCoins](https://github.com/AhemOne/LamboCoins): A project exploring Ethereum and blockchain technology I was working on with a friend as a proof of concept (Not C++).
-- [Code Golf](https://codegolf.stackexchange.com/users/64644/ahemone?tab=answers): Check out some of my answers to these coding challenges. The focus is on minimal code so some answers are highly obfuscated in favor of tersness.
+- [LamboCoins](https://github.com/AhemOne/LamboCoins): A project exploring Ethereum and blockchain technology I was working on with a friend as a proof of concept (Solidity/Ethereum contracts).
+- [Code Golf](https://codegolf.stackexchange.com/users/64644/ahemone?tab=answers): Check out some of my answers to these coding challenges. The focus is on minimal code so some answers are highly obfuscated in favor of tersness. (K&R C)
 
 
 
