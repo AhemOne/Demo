@@ -2,8 +2,7 @@
 //  Packet.hpp
 //  XCIS
 //
-//  Created by Jesse on 22/10/19.
-//  Copyright © 2019 Jesse. All rights reserved.
+//  Copyright © 2019 XCIS. All rights reserved.
 //
 
 #ifndef Packet_hpp
