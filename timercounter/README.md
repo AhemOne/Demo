@@ -6,4 +6,4 @@ This is a project I used to explore timers, counters and comms hardware on the A
 
 ## Files
 
-[timercounter.ino](timercounter.ino)
+- timercounter.[ino](timercounter.ino): Arduino implementation file.
