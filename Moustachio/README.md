@@ -50,11 +50,15 @@ The main functionality is then provided as follows;
 
 - **Get global direction of travel**
 
-```cpp double bearing = compass.bearing(); ```
+```cpp 
+double bearing = compass.bearing(); 
+```
 
 - **Move to a global waypoint**
 
-```cpp drive.to(waypoint); ```
+```cpp 
+drive.to(waypoint); 
+```
 
 - **Get the distance to a wall**
 
