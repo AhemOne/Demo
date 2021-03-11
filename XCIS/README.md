@@ -13,6 +13,6 @@ This code forms an early iteration for message transmission within the XCIS LoRa
 - [Packet.hpp](Packet.hpp) - a type to contain an incoming or outgoing data packet.
 - [Packet.cpp](Packet.cpp) - implementation of Packet_t.
 - [SimpleBuffer.hpp](SimpleBuffer.hpp) - a buffer type for the packet to use, can be static or dynamic.
-- [Helper.hpp] - some type definitions to get things going.
+- [Helper.hpp](Helper.hpp) - some type definitions to get things going.
 - [Helper.cpp](Helper.cpp) - implementation for the helpers.
-- [Debug.hpp] - some debugging facilities.
+- [Debug.hpp](Debug.hpp) - some debugging facilities.
