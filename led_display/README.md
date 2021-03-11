@@ -6,4 +6,4 @@ I wanted to play around with a new screen (at the time) that Jaycar had recently
 
 ## Files
 
-[led_display.ino](led_display.ino)
+led_display.[ino](led_display.ino) - Arduino implementation file
