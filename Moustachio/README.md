@@ -54,7 +54,7 @@ Get global direction of travel
 
 move to a global waypoint
 
-```cpp drive.to(waypoint); ````
+```cpp drive.to(waypoint); ```
 
 get the distance to a wall
 
