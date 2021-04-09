@@ -30,6 +30,8 @@ This code forms an early iteration for message transmission within the XCIS LoRa
 
 ### Boards
 
+Boards were designed using KiCAD and manufactured externally. Prototypes were produced one side at time using a screen printed solder mask, SMD components were then hand placed and that side was baked in an infra-red soldering oven. Finally, through hole components then soldered by hand.
+
 ![4 XCIS boards](XCIS%20Boards.jpg)
 
 These are some example boards produced while working for XCIS. Clockwise from upper left:
