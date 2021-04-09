@@ -14,3 +14,7 @@ This code forms an early iteration for message transmission within the XCIS LoRa
 - SimpleBuffer.[hpp](SimpleBuffer.hpp): A buffer type for the packet to use, can be static or dynamic.
 - Helper.([hpp](Helper.hpp)/[cpp](Helper.cpp)): Some type definitions to get things going.
 - Debug.[hpp](Debug.hpp): Some debugging facilities.
+
+## Boards
+
+![4 XCIS boards](XCISboards.jpg)
