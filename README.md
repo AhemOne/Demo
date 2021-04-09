@@ -1,9 +1,9 @@
 # Demo
-A collection of code snippets demonstrating my coding ability and style.
+Some of my previous projects
 
 - [Moustachio](Moustachio/README.md): A set of hardware libraries (motor and sensors) for a university project which involved building a small robot capable of solving mazes. (C++ *Arduino*)
 - [Rational](Rational/README.md): A rational number library. (C++)
-- [XCIS](XCIS/README.md): Some code from an early iteration of the XCIS firmware. (C++)
+- [XCIS](XCIS/README.md): Some code from an early iteration of the XCIS firmware (C++). Circuit board designs.
 - [console](console/README.md): A code chunk from a project attempting to make a basic console using Open GL. (C++)
 - [led_display](led_display/README.md): A project getting a Jaycar 16x16 display module working. Plays Conway's game of life. (C++ *Arduino*)
 - [timercounter](timercounter/README.md): A project exploring hardware manipulation on the ATMega series microcontrollers. (C++ *Arduino*)
